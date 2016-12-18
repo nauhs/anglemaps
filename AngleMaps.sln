@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleMaps", "AngleMaps\AngleMaps.csproj", "{689894B0-814E-46B8-A72C-E90BE5BF6E49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleMaps.Model", "AngleMaps.Model\AngleMaps.Model.csproj", "{4991892A-545A-48FA-AB69-996F061A6C28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{689894B0-814E-46B8-A72C-E90BE5BF6E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689894B0-814E-46B8-A72C-E90BE5BF6E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689894B0-814E-46B8-A72C-E90BE5BF6E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689894B0-814E-46B8-A72C-E90BE5BF6E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4991892A-545A-48FA-AB69-996F061A6C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4991892A-545A-48FA-AB69-996F061A6C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4991892A-545A-48FA-AB69-996F061A6C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4991892A-545A-48FA-AB69-996F061A6C28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
